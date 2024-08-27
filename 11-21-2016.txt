@@ -1,0 +1,47 @@
+#item The firm that starts work at 9.06am
+Source: BBC News
+By Will Smale, Business reporter 
+There aren't many companies that insist staff start work every day at such an oddly specific time as Pivotal Software.
+Employees at the US firm's 20 global offices all have to be at work and ready to go at exactly 9.06am.
+At that precise time a cowbell is rung, or a gong is hit, and all workers gather for a brief stand-up meeting that lasts for between five and 10 minutes.
+Then the firm's programmers hit their computers, with no other meetings or distractions for the rest of the day.
+Pivotal's founder and chief executive Rob Mee says it is all about making the working day as efficient as possible.
+"I realised that programmers, if left to their own devices, may roll in at 10am," he says. "And if they haven't eaten adequately they will be hungry by 11am, so they'll stop for food, which then makes the afternoon too long. It is not very efficient.
+"So we thought, 'let's provide breakfast for everyone.' It gives them a reason to get here."
+
+#item Michigan up one spot to third in AP poll
+Source: http://www.detroitnews.com 
+by Detroit News staff and wires
+Michigan moved up one spot to third in this week’s Associated Press college football poll following a 20-10 victory over Indiana.
+The Wolverines (10-1) close the regular season this Saturday at Ohio State (10-1).
+The Buckeyes kept their No. 2 spot in the poll behind Alabama, despite a one-point victory over Michigan State.
+So it will be No. 2 vs. No. 3 for “The Game” this Saturday when the Wolverines travel to Columbus.
+The 113th meeting of Michigan and Ohio State will mark the 11th time the rivals will both be ranked in the top five and the first since 2006, when they had their only 1-2 matchup. The Buckeyes won that game 42-39 in Columbus to earn a spot in the BCS title game.
+Clemson improved one spot to No. 4 and Wisconsin was fifth, giving the Big Ten three teams in the top five for the first time since Nov. 7, 1960, when Minnesota was No. 1, Ohio State was No. 3 and Iowa was No. 5.
+In the Amway coaches’ poll, Michigan remained fourth and Clemson jumped into the No. 3 spot last week occupied by Louisville, which lost to Houston. Washington is No. 5 and Wisconsin is the highest two-loss team at No. 6.
+Western Michigan, which crushed Buffalo 38-0 to go 11-0, remained No. 14 in the AP poll and improved three spots to No. 18 in the coaches' poll.
+
+#item Jaguar unveils first electric car
+by Bronte Lord & Richa Naik   @CNNMoney
+Jaguar showed off the all-wheel-drive I-Pace at the Los Angeles Motor Show. It's the luxury automakers first electric car and second SUV.
+
+#item Symantec to Buy Identity Theft Protection Company LifeLock Computer-security-software maker to pay $2.3 billion for seller of identity-theft protection services
+Source: The Wall Street Journal
+By ROBERT MCMILLAN
+Computer-security-software maker Symantec Corp. has agreed to acquire LifeLock Inc., a seller of identity-theft protection services, for $2.3 billion in cash, the companies said Sunday.
+The deal will value LifeLock at $24 a share, a 16% premium to its Friday price of $20.75, near its 52-week high.
+The deal broadens Symantec’s portfolio at a time when the 34-year-old company is looking to break out beyond its traditional strength in antivirus software.
+Symantec hopes to integrate LifeLock with its Norton antivirus businesses into a single product line after the acquisition closes, expected early next year.
+LifeLock’s has more than 4.4 million subscribers, a user base that the company has built through aggressive marketing. Last year, the company agreed to pay $113 million to settle deceptive advertising charges brought by the Federal Trade Commission. LifeLock neither confirmed nor denied the FTC allegations.
+Symantec has struggled to grow, even as computer security emerged as a top concern for executives. Former Chief Executive Michael Brown stepped down in April following disappointing financial results. Two months later, the company said it would acquire Blue Coat Systems Inc. in a $4.65 billion deal, the company’s largest acquisition since its 2005 purchase of Veritas Software.
+In January, Symantec sold its Veritas data-storage unit to Carlyle Group for $7.4 billion.
+—Dana Cimilluca contributed to this article.
+
+#item Just how partisan is Facebook's fake news? We tested it. 
+Source: http://pcworld.com
+By Mark Hachman, Senior Editor, PCWorld 
+Far more spin and fake news is pushed at Trump supporters.
+It was only a few minutes after my imaginary Trump supporter “Todd White” began exploring Facebook that he learned filmmaker Michael Moore was staging a coup d’etat against president-elect Donald Trump. Todd also learned that Trump won the popular vote. And that there were people paid to protest at Trump rallies.
+None of that is true, of course. That’s the sort of fake news that’s being disseminated by Facebook—bogus content that many believe was written by partisan groups to influence the election. But how do Facebook users end up seeing it? We decided to test who’s seeing this partisan fake news, who’s supplying it, and just how obvious it is. 
+We began our investigation last Monday, as the fake-news controversy gained momentum—and Facebook and Google began blocking sites that traffic in disinformation from their respective advertising networks. We set up two Facebook accounts, one favoring Hillary Clinton, and the other supporting Trump, then let Facebook recommend a series of news pages. In effect, we were asking Facebook to be our news service. 
+Then we sat back and watched the news roll in. We looked closely at each post to determine whether it was real news, fake news, or something in between. 
